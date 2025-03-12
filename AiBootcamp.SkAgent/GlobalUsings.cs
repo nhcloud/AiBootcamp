@@ -1,0 +1,9 @@
+﻿global using Microsoft.SemanticKernel;
+global using Microsoft.SemanticKernel.ChatCompletion;
+global using Microsoft.SemanticKernel.Agents;
+global using Microsoft.SemanticKernel.Connectors.AzureOpenAI;
+global using Microsoft.Extensions.Configuration;
+global using AiBootcamp.SkAgent.Model;
+global using AiBootcamp.SkAgent.Plugins;
+global using AiBootcamp.SkAgent.Agents;
+global using AiBootcamp.SkAgent.Strategies;

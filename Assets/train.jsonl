@@ -1,0 +1,10 @@
+{"messages": [{"role": "user", "content": "John Doe is a senior software engineer responsible for developing enterprise applications."}, {"role": "assistant", "content": "0"}]}
+{"messages": [{"role": "user", "content": "Jane Smith is a data scientist specializing in machine learning and natural language processing."}, {"role": "assistant", "content": "1"}]}
+{"messages": [{"role": "user", "content": "Alice Brown works as a marketing manager handling digital campaigns and customer engagement."}, {"role": "assistant", "content": "0"}]}
+{"messages": [{"role": "user", "content": "Bob Johnson is a research scientist developing AI-based solutions for autonomous systems."}, {"role": "assistant", "content": "1"}]}
+{"messages": [{"role": "user", "content": "Michael Davis is a financial analyst using data-driven insights to optimize investment strategies."}, {"role": "assistant", "content": "0"}]}
+{"messages": [{"role": "user", "content": "Sarah Lee is a machine learning engineer building predictive models for large datasets."}, {"role": "assistant", "content": "1"}]}
+{"messages": [{"role": "user", "content": "Chris White is an IT support technician providing troubleshooting for internal systems."}, {"role": "assistant", "content": "0"}]}
+{"messages": [{"role": "user", "content": "Jessica Williams is a software architect leading the design of scalable systems."}, {"role": "assistant", "content": "0"}]}
+{"messages": [{"role": "user", "content": "David Miller is a senior AI researcher working on reinforcement learning algorithms."}, {"role": "assistant", "content": "1"}]}
+{"messages": [{"role": "user", "content": "Emily Clark is a product manager overseeing the development of new software products."}, {"role": "assistant", "content": "0"}]}

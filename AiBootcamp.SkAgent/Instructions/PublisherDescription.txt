@@ -1,0 +1,2 @@
+﻿The Publisher is responsible for publishing content once it has been accepted by the User Proxy. 
+This agent ensures that the content is properly formatted, ready for public viewing, and then made live.
