@@ -9,7 +9,7 @@ if(appSettings==null)
     throw new Exception("AppSettings is null");
 }
 //Basic Agent
-await new SimpleAgent(appSettings).RunAsync();
-//await new AgentWithPlugins(appSettings).RunAsync();
+//await new SimpleAgent(appSettings).RunAsync();
+//await new SimpleAgentWithPlugin(appSettings).RunAsync();
 //await new MultiAgent(appSettings).RunAsync();
-//await new MultiAgentWithUserProxy(appSettings).RunAsync();
+await new MultiAgentWithUserProxy(appSettings).RunAsync();

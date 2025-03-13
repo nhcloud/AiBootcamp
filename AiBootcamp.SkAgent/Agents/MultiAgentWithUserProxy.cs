@@ -55,12 +55,12 @@ public class MultiAgentWithUserProxy
                 Console.WriteLine();
             }
 
-            await foreach (var content in groupChat.InvokeAsync())
-            {
-                Helper.WriteLineWithHighlight($"## {content.Role} - {content.AuthorName ?? "*"} ##", ConsoleColor.Black);
-                Console.WriteLine($"{content.Content}");
-                Console.WriteLine();
-            }
+            //await foreach (var content in groupChat.InvokeAsync())
+            //{
+            //    Helper.WriteLineWithHighlight($"## {content.Role} - {content.AuthorName ?? "*"} ##", ConsoleColor.Black);
+            //    Console.WriteLine($"{content.Content}");
+            //    Console.WriteLine();
+            //}
             isPublished = true;
             // Get the chat history of publisher
             ChatMessageContent[] agentHistory = await groupChat.GetChatMessagesAsync(agents[terminationAgentName]).ToArrayAsync();
