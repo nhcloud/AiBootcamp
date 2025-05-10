@@ -16,7 +16,31 @@ In this exercise, you will follow the speaker to work with **Azure AI Foundry**.
 
 ---
 
-## Exercise 2: AiBootcamp.Sk - Basic Semantic Kernel Project
+## Exercise 2: AG - AutoGen Python
+
+In this exercise, you will explore the basics of the **AutoGen Python** framework.
+
+### Steps:
+1. Prequisites: Visual Studio Code, Python 3.13.3 or later
+2. Clone the **AiBootcamp** project. Open the AG Folder in Visual Studio Code
+2. Familiarize yourself with the structure and components of the AutoGen.
+3. Follow the instructions in the repository to run basic examples and explore how the AutoGen works.
+
+---
+
+## Exercise 3: ASK - Semantic Kernel .NET (C#)
+
+In this exercise, you will explore the basics of the **Semantic Kernel** framework.
+
+### Steps:
+1. Prequisites: Visual Studio Code, .NET 9 or later
+2. Clone the **AiBootcamp** project.
+2. Familiarize yourself with the structure and components of the Semantic Kernel.
+3. Follow the instructions in the repository to run basic examples and explore how the Semantic Kernel works.
+
+---
+
+## Exercise 24: AiBootcamp.Sk - Basic Semantic Kernel Project
 
 In this exercise, you will explore the basics of the **Semantic Kernel** framework.
 
@@ -27,7 +51,7 @@ In this exercise, you will explore the basics of the **Semantic Kernel** framewo
 
 ---
 
-## Exercise 3: AiBootcamp.SkAgent - Semantic Kernel Agent Project
+## Exercise 5: AiBootcamp.SkAgent - Semantic Kernel Agent Project
 
 In this exercise, you will build an agent using the **Semantic Kernel** framework. You will learn about scenario-driven agent building and how to apply the Semantic Kernel to develop intelligent agents.
 
@@ -38,7 +62,7 @@ In this exercise, you will build an agent using the **Semantic Kernel** framewor
 
 ---
 
-## Exercise 4: AiBootcamp.AgAgent - Autogen Agent Project
+## Exercise 6: AiBootcamp.AgAgent - Autogen Agent Project
 
 In this exercise, you will explore the basics of the **Autogen Agentic** framework and how to build intelligent agents with it.
 
