@@ -34,7 +34,7 @@ In this exercise, you will explore the basics of the **Semantic Kernel** framewo
 
 ### Steps:
 1. Prequisites: Visual Studio Code, .NET 9 or later
-2. Clone the **AiBootcamp** project.
+2. Clone the **AiBootcamp** project. Open the SK Folder in Visual Studio or Visual Studio Code
 2. Familiarize yourself with the structure and components of the Semantic Kernel.
 3. Follow the instructions in the repository to run basic examples and explore how the Semantic Kernel works.
 
